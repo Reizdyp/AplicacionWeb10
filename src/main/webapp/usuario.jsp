@@ -27,7 +27,7 @@ if(request.getParameter("do")!=null){
 
 <form action="ServletGestionUsuario" method="post">
 <h1>Formulario de ingreso</h1>
-
+<p>usuario</p>
 <input type="text" name="doc" value="<%=d%>">
 
 <input type="text" name="usu" value="<%=u%>">
